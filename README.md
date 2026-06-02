@@ -6,7 +6,7 @@ Interactive Sales Dashboard built in Microsoft Excel using Power Query, Power Pi
 
 ## Dashboard Preview
 
-![Dashboard](Excel Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 
